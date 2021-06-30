@@ -1,0 +1,23 @@
+{
+    "name": "JavaScript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ailtonneto18/JavaScript.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ailtonneto18/JavaScript/issues"
+    },
+    "homepage": "https://github.com/ailtonneto18/JavaScript#readme",
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
+}
